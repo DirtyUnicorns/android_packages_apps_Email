@@ -3,7 +3,7 @@
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
- * You may obtain a copy of the License at
+ * You may obtain a copy of the License at:
  *
  *      http://www.apache.org/licenses/LICENSE-2.0
  *
@@ -55,7 +55,7 @@ public class AccountSetupOutgoingFragment extends AccountServerBaseFragment
 
     private final static String STATE_KEY_LOADED = "AccountSetupOutgoingFragment.loaded";
 
-    private static final int SMTP_PORT_NORMAL = 587;
+    private static final int SMTP_PORT_NORMAL = 25;
     private static final int SMTP_PORT_SSL    = 465;
 
     private EditText mUsernameView;
