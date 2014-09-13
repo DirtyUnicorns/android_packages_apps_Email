@@ -297,4 +297,17 @@
     <string name="trash_folder_selection_title" msgid="8052880079616386185">"Sélect. dossier \"Corbeille\" du serveur pour <xliff:g id="ACCOUNT">%s</xliff:g>."</string>
     <string name="sent_folder_selection_title" msgid="2668629667423320684">"Sélect. dossier d\'éléments envoyés du serveur pour <xliff:g id="ACCOUNT">%s</xliff:g>."</string>
     <string name="account_waiting_for_folders_msg" msgid="6504836014579036923">"Chargement de la liste des dossiers en cours…"</string>
+
+    <!-- Account settings -->
+    <string name="account_settings">Paramètres du compte</string>
+
+    <!-- Delete account -->
+    <string name="delete_account_title">Supprimer le compte</string>
+    <string name="delete_account_summary">Supprimer ce compte, tous ses paramètres et ses données</string>
+    <string name="delete_account_confirmation_msg">Cette opération va supprimer tous les paramètres et les e-mails
+        du compte <xliff:g id="account">%s</xliff:g>. Cette opération ne peut pas être annulée.\n\nContinuer\u00A0?</string>
+
+    <string name="deleting_account_msg">Suppression du compte\u2026</string>
+    <string name="delete_account_failed">Impossible de supprimer le compte</string>
+
 </resources>
