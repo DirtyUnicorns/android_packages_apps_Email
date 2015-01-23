@@ -15,8 +15,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="account_settings_notify_every_message_label">Notify for every message</string>
-  <string name="account_setup_options_mail_check_frequency_2hour">Every 2 hours</string>
-  <string name="account_setup_options_mail_check_frequency_4hour">Every 4 hours</string>
-  <string name="account_setup_options_mail_check_frequency_1day">Every day</string>
+  <string name="account_settings_notify_every_message_label">모든 메일에 대한 알림</string>
+  <string name="account_setup_options_mail_check_frequency_2hour">2시간 마다</string>
+  <string name="account_setup_options_mail_check_frequency_4hour">4시간 마다</string>
+  <string name="account_setup_options_mail_check_frequency_1day">매일</string>
 </resources>
